@@ -494,7 +494,7 @@ margin-left: 10%;
 }
 
 .header{
-    background-image: url(./images/bg.gif);
+    background-image: url(./bg.gif);
     height: 80vh;
     background-size: 100%;
     width: 100%;
@@ -526,7 +526,7 @@ margin-left: 10%;
     font-size: 66px;
 }
 .row{
-    background-image: url(./images/We\ believe\ in\ the\ craftsmanship\ of\ auto\ detailing\,\ which\ is\ why\ our\ customers\ come\ back\ to\ us\ time\ and\ again.\ We\ go\ above\ and\ beyond\,\ always\ respect\ the\ beautiful\ cars\ we\ work\ with\,\ and\ love\ nothing\ more\ than\ the\ ama.jpg);
+    background-image: url(./We\ believe\ in\ the\ craftsmanship\ of\ auto\ detailing\,\ which\ is\ why\ our\ customers\ come\ back\ to\ us\ time\ and\ again.\ We\ go\ above\ and\ beyond\,\ always\ respect\ the\ beautiful\ cars\ we\ work\ with\,\ and\ love\ nothing\ more\ than\ the\ ama.jpg);
     height: 100vh;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -1009,7 +1009,7 @@ footer .bottom-details .bottom_text{
   
     width: 100%;
     margin-left: 0;
-    background-image: url(./images/About\ US.jpg);
+    background-image: url(./About\ US.jpg);
     
 }
 .rowtwo{
@@ -1072,7 +1072,7 @@ footer .bottom-details .bottom_text{
 }
 .header{
   background-size: 100%;
-  background-image: url(./images/mobile.gif);
+  background-image: url(./mobile.gif);
   height: 100vh;
  
 }
