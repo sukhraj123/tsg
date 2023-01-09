@@ -530,7 +530,7 @@ margin-left: 10%;
     height: 100vh;
     background-size: 100%;
     background-repeat: no-repeat;
-   margin-left: 5%;
+  
     width: 100%;
    
 }
@@ -696,7 +696,7 @@ footer{
 }
 .footer-bottom p a{
  color:#1DA1F2;
- font-size: 11px;
+ font-size: 18px;
  text-decoration: none;
 }
 .footer-bottom span{
@@ -715,6 +715,9 @@ footer{
 .footer-menu ul li{
 padding-right: 10px;
 display: flex;
+}
+.box a {
+  font-size: 18px;
 }
 footer{
   
