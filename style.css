@@ -1082,6 +1082,15 @@ footer .bottom-details .bottom_text{
 .header img{
   width: 80px;
 }
+.gallery{
+  display: block;
+  width: 100%;
+  
+}
+.gall{
+  display: block;
+  width: 100%;
+}
   }
 
   .fcf-btn {
@@ -1302,4 +1311,34 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
       display: block;
       margin-bottom: 20px;
     }
+    
   }
+
+
+
+  .gallery {
+    display : flex;
+  width: 80%;
+  margin: auto;
+  
+
+    }
+    .gall{
+      width: 100%;
+     flex-direction: row;
+      
+    }
+    .pics img{
+      height: 100%;
+      width: 100%;
+      
+      left: 0;
+      
+      top: 0;
+
+
+    }
+    .pics:hover{
+      background-color: #44d9e6;
+    }
+    
